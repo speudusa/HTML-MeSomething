@@ -1,0 +1,37 @@
+body{
+    background-color: aliceblue;
+}
+
+header{
+    background-color: rebeccapurple;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+
+
+article{
+color: rebeccapurple;
+text-align:center;
+   
+}
+
+h2 {
+color: crimson;
+}
+
+.footer-paragraph {
+    color: white;
+    text-align: center;
+}
+
+#sig{
+    font-family:cursive;
+    color:white;
+}
+
+footer{
+    background-color: crimson;
+    text-align: center;
+}
